@@ -1,5 +1,4 @@
-![imagen](https://github.com/user-attachments/assets/276b8531-00aa-49e6-ab41-9881b058c828)
-
+![imagen](https://github.com/user-attachments/assets/dbe47ff1-b575-4cd2-b679-bf9bd50dee30)
 
 ### Edit list channel
 - Open `sdb.xml` file with the program [ChanSort](https://github.com/PredatH0r/ChanSort) or [Sony Channel Editor](https://www.sony.es/electronics/support/articles/00200061)
