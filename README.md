@@ -1,5 +1,3 @@
-![imagen](https://github.com/user-attachments/assets/2643379f-6bd5-4af1-90b3-b15f042a368c)
-
 ![imagen](https://github.com/user-attachments/assets/276b8531-00aa-49e6-ab41-9881b058c828)
 
 
